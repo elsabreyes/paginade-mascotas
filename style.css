@@ -1,0 +1,29 @@
+body{
+    color:#bc1cc0;
+    /*Ponerle color al fondo*/
+    background-color: #bdcfff;
+    font-family: 'Fredoka One', cursive;
+}
+
+h1{
+    color:maroon;
+    font-size: 70px;
+}
+
+h3{
+    color:tomato
+}
+
+img{
+    width: 400px; /*Ancho*/
+    height: 300;
+    padding: 20px;
+    margin: 20px;
+}
+
+footer{
+    background-color: #ffd7cf;
+    color:#773a60;
+    padding: 20px;
+
+}
