@@ -12,7 +12,7 @@
 
 ## 1. Intro
 
-HTML5 trabaja de la mano con CSS3 para crear páginas web que usamos todos los dias en el navegador
+HTML5 trabaja de la mano con CSS3 para crear páginas web que usamos todos los dias en el navegador.
 
 ## 2. Qué construí
 
